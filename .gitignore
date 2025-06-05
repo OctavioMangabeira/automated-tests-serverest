@@ -1,0 +1,7 @@
+node_modules/
+cypress/screenshots/*
+cypress/reports/*
+cypress/results/*
+cypress/videos/*
+mochawesome-report/
+gh-pages/
